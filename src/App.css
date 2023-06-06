@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.PlayerCard {
+  width: 18rem;
+  margin: 20px;
+  display: inline-block;
+}
+
+.PlayerCard img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.PlayerCard .card-body {
+  background-color: #f5f5f5;
+}
