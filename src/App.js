@@ -1,5 +1,5 @@
 import React from "react";
-import PlayersList from "./Component/PlayersList";
+import PlayersList from "./PlayersList";
 
 function App() {
   return (
